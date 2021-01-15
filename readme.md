@@ -32,3 +32,7 @@ WeatherAPITest, ControllerTest : clasele pentru testele unitare
 
 ## Workflow
 Se incarca lista de orase si tari in fisierul list, se alege optiunea si aplicatia va interoga API-ul pentru a extrage datele necesare, pe urma acestea vor fi salvate in fisierul history.
+
+## Diagrame UML
+![](1.png)
+![](2.png)
